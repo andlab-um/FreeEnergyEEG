@@ -1,5 +1,5 @@
 # FreeEnergyEEG
-Free Energy with EEG Study
+The Neural Correlates of Uncertainty and Risk in Human Decision-Making under an Active Inference Framework
 
 Codebase underlying Zhang et al.'s 2023  paper about DECISION-MAKING UNDER ACTIVE INFERENCE FRAMEWORK IN THE HUMAN BRAIN: EVIDENCE FROM EEG.
 
