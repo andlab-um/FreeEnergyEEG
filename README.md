@@ -1,6 +1,6 @@
 # FreeEnergyEEG
 Codebase underlying Zhang et al.'s 2023  paper about The Neural Correlates of Ambiguity and Risk in Human Decision-Making under an Active Inference Framework.
-![image text](https://https://github.com/andlab-um/FreeEnergyEEG/blob/main/action-perception.png)
+![image text](https://github.com/andlab-um/FreeEnergyEEG/blob/main/action-perception.png)
 
 
 # Description
